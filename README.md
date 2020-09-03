@@ -1,6 +1,6 @@
 # Junior PHP developer recruitment task
 
-Aim of this task is to order a package label using our API and provied data and process the response.
+Aim of this task is to order a package label using our API witth provied data and process the response.
 
 *Code should follow SOLID principles, but not over complicated, be readable*
 
