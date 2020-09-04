@@ -25,7 +25,8 @@ API documentation is in `source` folder. Use this method: `courier/create-pre-ro
 ```
 LOGIN: <provided_in_the_email>
 API KEY: <provided_in_the_email>
-Environment: test
+Environment: production
+Method to use: courier/create-pre-routing
 ```
 
 ## Checklist
