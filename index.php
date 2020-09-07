@@ -167,8 +167,7 @@ class CourierRouting extends DataReader
 				 'options' => $options,
 				];
 
-				$apiCall = new CourierRouting();
-				$apiCall->createCouriers($DATA);
+				$this->createCouriers($DATA);
 			}
 		}
 	}
